@@ -12,7 +12,7 @@ I add items when they are working, understandable, and documented.
 ---
 
 ## HTML & CSS
-- (coming soon)
+- [HTML Intro](https://github.com/malinfossum/getacademy-html-intro)
 
 ## JavaScript Basics
 - (coming soon)
