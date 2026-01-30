@@ -12,10 +12,14 @@ I add items when they are working, understandable, and documented.
 ---
 
 ## HTML & CSS
-- [HTML Intro](https://malinfossum.github.io/getacademy-html-intro/)
+- **HTML Intro**  
+  [Live demo](https://malinfossum.github.io/getacademy-html-intro/) ·
+  [Repository](https://github.com/malinfossum/getacademy-html-intro)
 
 ## JavaScript Basics
-- (coming soon)
+- **Teamoppgave 1 – Inventory Filler**  
+  [Live demo](https://malinfossum.github.io/getacademy-teamoppgave-1/) ·
+  [Repository](https://github.com/malinfossum/getacademy-teamoppgave-1)
 
 ## DOM & Events
 - (coming soon)
