@@ -17,7 +17,7 @@ I add items when they are working, understandable, and documented.
   [Repository](https://github.com/malinfossum/getacademy-html-intro)
 
 ## JavaScript
-- **Teamoppgave 1 – Inventory Filler**  
+- **Team Assignment 1**  
   [Live demo](https://malinfossum.github.io/getacademy-teamoppgave-1/) ·
   [Repository](https://github.com/malinfossum/getacademy-teamoppgave-1)
 
