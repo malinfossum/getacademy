@@ -1,6 +1,6 @@
-# GET Academy — Learning Index (Start IT)
+# Get Academy — Learning Index
 
-This repository is an index of my assignments and small projects from **GET Academy (Start IT)**.
+This repository is an index of my assignments and small projects from **Get Academy**.
 
 I add work here when it is working, understandable, and reasonably documented.  
 The focus is on **fundamentals, clarity, and steady progression**.
@@ -15,9 +15,9 @@ The focus is on **fundamentals, clarity, and steady progression**.
   [Repository](https://github.com/malinfossum/getacademy-html-intro)
 
 ### JavaScript
-- **Team Assignment 1**  
-  [Live demo](https://malinfossum.github.io/getacademy-teamoppgave-1/) ·
-  [Repository](https://github.com/malinfossum/getacademy-teamoppgave-1)
+- **Tamagochi**  
+  [Live demo](https://malinfossum.github.io/getacademy-tamagochi/) ·
+  [Repository](https://github.com/malinfossum/getacademy-tamagochi)
 
 - **Stopwatch**  
   [Live demo](https://malinfossum.github.io/getacademy-javascript-stopwatch/) ·
