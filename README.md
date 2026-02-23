@@ -1,6 +1,6 @@
 # Get Academy — Learning Index
 
-Index of my assignments and projects from Get Academy (Start IT).
+Index of my assignments and projects from Get Academy.
 
 Work is added when it is functional, understandable, and reasonably documented.  
 The focus is on fundamentals, clarity, and steady progression.
@@ -11,29 +11,30 @@ The focus is on fundamentals, clarity, and steady progression.
 
 ### HTML & CSS
 - **HTML Introduction**  
-  [Live demo](https://malinfossum.github.io/getacademy-html-intro/) ·
-  [Repository](https://github.com/malinfossum/getacademy-html-intro)
+  [Live](https://malinfossum.github.io/html-intro/) ·
+  [Repo](https://github.com/malinfossum/html-intro)
 
 ### JavaScript
-- **Tamagochi**  
-  [Live demo](https://malinfossum.github.io/getacademy-tamagochi/) ·
-  [Repository](https://github.com/malinfossum/getacademy-tamagochi)
+- **Inventory Filler**  
+  [Live](https://malinfossum.github.io/inventory-filler/) ·
+  [Repo](https://github.com/malinfossum/inventory-filler)
 
 - **Stopwatch**  
-  [Live demo](https://malinfossum.github.io/getacademy-javascript-stopwatch/) ·
-  [Repository](https://github.com/malinfossum/getacademy-javascript-stopwatch)
+  [Live](https://malinfossum.github.io/stopwatch/) ·
+  [Repo](https://github.com/malinfossum/stopwatch)
 
-### DOM & Events
-- *(coming soon)*
+- **Tamagotchi**  
+  [Live](https://malinfossum.github.io/tamagotchi/) ·
+  [Repo](https://github.com/malinfossum/tamagotchi)
 
 ---
 
 ## Projects
 
 - **Portfolio Website**  
-  [Repository](https://github.com/malinfossum/portfolio-website) ·
-  [Live site](https://malinfossum.github.io/portfolio-website/)
+  [Live](https://malinfossum.github.io/portfolio-website/) ·
+  [Repo](https://github.com/malinfossum/portfolio-website)
 
 ---
 
-_This index grows gradually as I learn more._
+_This index evolves as my skills grow._
