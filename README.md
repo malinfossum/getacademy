@@ -32,7 +32,7 @@ The focus is on fundamentals, clarity, and steady progression.
 ## Projects
 
 - **Portfolio Website**  
-  [Live](https://malinfossum.github.io/portfolio-website/) ·
+  [Live](https://malinfossum.github.io/portfolio/) ·
   [Repo](https://github.com/malinfossum/portfolio-website)
 
 ---
