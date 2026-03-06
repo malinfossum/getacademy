@@ -10,34 +10,30 @@ The focus is on fundamentals, clarity, and steady progression.
 ## Current Work
 
 ### HTML & CSS
+
 - **HTML Introduction**  
-  [Live](https://malinfossum.github.io/html-intro/) ·
-  [Repo](https://github.com/malinfossum/html-intro)
+  [Live](https://malinfossum.github.io/html-intro/) · [Repo](https://github.com/malinfossum/html-intro)
 
 ### JavaScript
+
 - **Inventory Filler**  
-  [Live](https://malinfossum.github.io/inventory-filler/) ·
-  [Repo](https://github.com/malinfossum/inventory-filler)
+  [Live](https://malinfossum.github.io/inventory-filler/) · [Repo](https://github.com/malinfossum/inventory-filler)
 
 - **Stopwatch**  
-  [Live](https://malinfossum.github.io/stopwatch/) ·
-  [Repo](https://github.com/malinfossum/stopwatch)
+  [Live](https://malinfossum.github.io/stopwatch/) · [Repo](https://github.com/malinfossum/stopwatch)
 
 - **Tamagotchi**  
-  [Live](https://malinfossum.github.io/tamagotchi/) ·
-  [Repo](https://github.com/malinfossum/tamagotchi)
+  [Live](https://malinfossum.github.io/tamagotchi/) · [Repo](https://github.com/malinfossum/tamagotchi)
 
 - **Street Cred Simulator**  
-  [Live](https://malinfossum.github.io/street-cred-simulator/) ·  
-  [Repo](https://github.com/malinfossum/street-cred-simulator)
+  [Live](https://malinfossum.github.io/street-cred-simulator/) · [Repo](https://github.com/malinfossum/street-cred-simulator)
 
 ---
 
 ## Projects
 
 - **Portfolio Website**  
-  [Live](https://malinfossum.github.io/portfolio/) ·
-  [Repo](https://github.com/malinfossum/portfolio-website)
+  [Live](https://malinfossum.github.io/portfolio/) · [Repo](https://github.com/malinfossum/portfolio)
 
 ---
 
