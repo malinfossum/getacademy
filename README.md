@@ -27,6 +27,10 @@ The focus is on fundamentals, clarity, and steady progression.
   [Live](https://malinfossum.github.io/tamagotchi/) ·
   [Repo](https://github.com/malinfossum/tamagotchi)
 
+- **Street Cred Simulator**  
+  [Live](https://malinfossum.github.io/street-cred-simulator/) ·  
+  [Repo](https://github.com/malinfossum/street-cred-simulator)
+
 ---
 
 ## Projects
