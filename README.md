@@ -64,6 +64,15 @@ The focus is on fundamentals, clarity, and steady progression.
 - **Magic 8 Ball**  
   [Live](https://malinfossum.github.io/magic-8-ball/) · [Repo](https://github.com/malinfossum/magic-8-ball)
 
+- **Pokemon Player Object**  
+  [Live](https://malinfossum.github.io/pokemon-player-object/) · [Repo](https://github.com/malinfossum/pokemon-player-object)
+
+- **Todo List**  
+  [Live](https://malinfossum.github.io/todo-list/) · [Repo](https://github.com/malinfossum/todo-list)
+
+- **Reaction Time Game**  
+  [Live](https://malinfossum.github.io/reaction-time-game/) · [Repo](https://github.com/malinfossum/reaction-time-game)
+
 ---
 
 ## Projects
