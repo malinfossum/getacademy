@@ -1,22 +1,17 @@
 # Get Academy — Learning Index
 
-Index of my assignments and projects from Get Academy (Start IT).
+An archive of my beginner coursework from Get Academy (Start IT).
 
-Work is added when it is functional, understandable, and reasonably documented.  
-The focus is on fundamentals, clarity, and steady progression.
+This repository contains the foundational assignments and small projects I built while learning the basics of HTML, CSS, and JavaScript. It represents the starting point of my development journey and is kept as a record of that early work.
 
----
+This index is no longer being expanded in this format. Future work will be published as separate repositories, with stronger projects highlighted on my GitHub profile.
 
-## Current Work
-
-### HTML & CSS
+## HTML & CSS
 
 - **HTML Introduction**  
   [Live](https://malinfossum.github.io/html-intro/) · [Repo](https://github.com/malinfossum/html-intro)
 
----
-
-### JavaScript Fundamentals
+## JavaScript Fundamentals
 
 - **Dynamic Button**  
   [Live](https://malinfossum.github.io/dynamic-button/) · [Repo](https://github.com/malinfossum/dynamic-button)
@@ -33,9 +28,7 @@ The focus is on fundamentals, clarity, and steady progression.
 - **Discount Calculator**  
   [Live](https://malinfossum.github.io/discount-calculator/) · [Repo](https://github.com/malinfossum/discount-calculator)
 
----
-
-### JavaScript Projects
+## JavaScript Projects
 
 - **Inventory Filler**  
   [Live](https://malinfossum.github.io/inventory-filler/) · [Repo](https://github.com/malinfossum/inventory-filler)
@@ -64,7 +57,7 @@ The focus is on fundamentals, clarity, and steady progression.
 - **Magic 8 Ball**  
   [Live](https://malinfossum.github.io/magic-8-ball/) · [Repo](https://github.com/malinfossum/magic-8-ball)
 
-- **Pokemon Player Object**  
+- **Pokémon Player Object**  
   [Live](https://malinfossum.github.io/pokemon-player-object/) · [Repo](https://github.com/malinfossum/pokemon-player-object)
 
 - **Todo List**  
@@ -74,12 +67,3 @@ The focus is on fundamentals, clarity, and steady progression.
   [Live](https://malinfossum.github.io/reaction-time-game/) · [Repo](https://github.com/malinfossum/reaction-time-game)
 
 ---
-
-## Projects
-
-- **Portfolio Website**  
-  [Live](https://malinfossum.github.io/portfolio/) · [Repo](https://github.com/malinfossum/portfolio)
-
----
-
-_This index evolves as my skills grow._
