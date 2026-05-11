@@ -5,6 +5,7 @@ Index of my coursework from Get Academy. Each module or project lives in its own
 ## C#
 
 - **Basic syntax** — variables, data types, console I/O — [Repo](https://github.com/malinfossum/csharp-basic-syntax)
+- **Fundamentals** — if/else, switch, loops, arrays/lists, random — [Repo](https://github.com/malinfossum/csharp-fundamentals)
 
 ## HTML & CSS
 
