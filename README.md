@@ -6,6 +6,7 @@ Index of my coursework from Get Academy. Each module or project lives in its own
 
 - **Basic syntax** — variables, data types, console I/O — [Repo](https://github.com/malinfossum/csharp-basic-syntax)
 - **Fundamentals** — if/else, switch, loops, arrays/lists, random — [Repo](https://github.com/malinfossum/csharp-fundamentals)
+- **OOP Intro** — classes, objects, properties, methods, lists of objects — [Repo](https://github.com/malinfossum/csharp-oop-intro)
 
 ## HTML & CSS
 
