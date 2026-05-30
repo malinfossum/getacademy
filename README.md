@@ -8,6 +8,13 @@ Index of my coursework from Get Academy. Each module or project lives in its own
 - **Fundamentals** — if/else, switch, loops, arrays/lists, random — [Repo](https://github.com/malinfossum/csharp-fundamentals)
 - **OOP Intro** — classes, objects, properties, methods, lists of objects — [Repo](https://github.com/malinfossum/csharp-oop-intro)
 - **Unit Testing** — NUnit, assertions, Arrange-Act-Assert, debugging — [Repo](https://github.com/malinfossum/csharp-unit-testing)
+- **Interfaces** — interfaces, polymorphism, programming to a shared contract — [Repo](https://github.com/malinfossum/csharp-interfaces)
+
+## C# — Practice & Pair Programming
+
+- **String Toolkit** — string manipulation menu; pair programming with Kristian — [Repo](https://github.com/malinfossum/string-toolkit)
+- **Rock Paper Scissors** — multi-project MVC with NUnit tests — [Repo](https://github.com/malinfossum/rock-paper-scissors)
+- **Car Dealership** — objects, lists, ownership transfer; pair programming with Hans-Oskar — [Repo](https://github.com/malinfossum/car-dealership)
 
 ## HTML & CSS
 
