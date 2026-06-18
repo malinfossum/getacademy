@@ -1,26 +1,32 @@
 # Get Academy — Coursework
 
-Index of my coursework from Get Academy. Each module or project lives in its own repo.
+A record of my coursework from Get Academy (Start IT), from my first HTML page to C# and object-oriented design. Each module or project lives in its own repository; most are archived (read-only) and kept as a learning trail.
 
-## C#
+For my own projects, see my [profile](https://github.com/malinfossum) and [portfolio](https://malinfossum.github.io/portfolio/).
 
-- **Basic syntax** — variables, data types, console I/O — [Repo](https://github.com/malinfossum/csharp-basic-syntax)
-- **Fundamentals** — if/else, switch, loops, arrays/lists, random — [Repo](https://github.com/malinfossum/csharp-fundamentals)
-- **OOP Intro** — classes, objects, properties, methods, lists of objects — [Repo](https://github.com/malinfossum/csharp-oop-intro)
-- **Unit Testing** — NUnit, assertions, Arrange-Act-Assert, debugging — [Repo](https://github.com/malinfossum/csharp-unit-testing)
-- **Interfaces** — interfaces, polymorphism, programming to a shared contract — [Repo](https://github.com/malinfossum/csharp-interfaces)
+## C# — Modules (Emne 3)
 
-## C# — Practice & Pair Programming
+- **1 · Basic syntax** — variables, data types, console I/O — [Repo](https://github.com/malinfossum/csharp-basic-syntax)
+- **2 · Fundamentals** — if/else, switch, loops, arrays/lists, random — [Repo](https://github.com/malinfossum/csharp-fundamentals)
+- **3 · OOP intro** — classes, objects, properties, methods, lists of objects — [Repo](https://github.com/malinfossum/csharp-oop-intro)
+- **4 · Unit testing** — NUnit, assertions, Arrange-Act-Assert, debugging — [Repo](https://github.com/malinfossum/csharp-unit-testing)
+- **5 · Interfaces** — interfaces, polymorphism, programming to a shared contract — [Repo](https://github.com/malinfossum/csharp-interfaces)
+- **6 · Inheritance** — base classes, subclasses, polymorphism through a shared type — [Repo](https://github.com/malinfossum/csharp-inheritance)
+
+## C# — Practice & exercises
 
 - **String Toolkit** — string manipulation menu; pair programming with Kristian — [Repo](https://github.com/malinfossum/string-toolkit)
 - **Rock Paper Scissors** — multi-project MVC with NUnit tests — [Repo](https://github.com/malinfossum/rock-paper-scissors)
 - **Car Dealership** — objects, lists, ownership transfer; pair programming with Hans-Oskar — [Repo](https://github.com/malinfossum/car-dealership)
+- **Online Bank** — console banking: view balance, deposit, transfer; separation of concerns — [Repo](https://github.com/malinfossum/OnlineBank)
+- **DangerBug** — classifies insects as dangerous, a nuisance or harmless; OOP + inheritance — [Repo](https://github.com/malinfossum/dangerbug)
+- **Buggy Inventory System** — debugging exercise: 20 logical bugs found, fixed and documented — [Repo](https://github.com/malinfossum/BuggyInventorySystem)
 
 ## HTML & CSS
 
-- **HTML Introduction** — [Live](https://malinfossum.github.io/html-intro/) · [Repo](https://github.com/malinfossum/html-intro)
+- **HTML Introduction** — semantic structure and basic styling — [Live](https://malinfossum.github.io/html-intro/) · [Repo](https://github.com/malinfossum/html-intro)
 
-## JavaScript Fundamentals
+## JavaScript — Fundamentals
 
 - **Dynamic Button** — [Live](https://malinfossum.github.io/dynamic-button/) · [Repo](https://github.com/malinfossum/dynamic-button)
 - **Temperature Check** — [Live](https://malinfossum.github.io/temperature-check/) · [Repo](https://github.com/malinfossum/temperature-check)
@@ -28,7 +34,7 @@ Index of my coursework from Get Academy. Each module or project lives in its own
 - **Multiply Calculator** — [Live](https://malinfossum.github.io/multiply-calculator/) · [Repo](https://github.com/malinfossum/multiply-calculator)
 - **Discount Calculator** — [Live](https://malinfossum.github.io/discount-calculator/) · [Repo](https://github.com/malinfossum/discount-calculator)
 
-## JavaScript Projects
+## JavaScript — Projects
 
 - **Inventory Filler** — [Live](https://malinfossum.github.io/inventory-filler/) · [Repo](https://github.com/malinfossum/inventory-filler)
 - **Stopwatch** — [Live](https://malinfossum.github.io/stopwatch/) · [Repo](https://github.com/malinfossum/stopwatch)
