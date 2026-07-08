@@ -1,6 +1,6 @@
 # Get Academy — Coursework
 
-A record of my coursework from Get Academy (Start IT), from my first HTML page to C# and object-oriented design. Each module or project lives in its own repository; most are archived (read-only) and kept as a learning trail.
+A record of my coursework from Get Academy (Start IT), from my first HTML page to C# and object-oriented design. Each module or project lives in its own repository; all are archived (read-only) and kept as a learning trail.
 
 For my own projects, see my [profile](https://github.com/malinfossum) and [portfolio](https://malinfossum.github.io/portfolio/).
 
@@ -18,9 +18,9 @@ For my own projects, see my [profile](https://github.com/malinfossum) and [portf
 - **String Toolkit** — string manipulation menu; pair programming with Kristian — [Repo](https://github.com/malinfossum/string-toolkit)
 - **Rock Paper Scissors** — multi-project MVC with NUnit tests — [Repo](https://github.com/malinfossum/rock-paper-scissors)
 - **Car Dealership** — objects, lists, ownership transfer; pair programming with Hans-Oskar — [Repo](https://github.com/malinfossum/car-dealership)
-- **Online Bank** — console banking: view balance, deposit, transfer; separation of concerns — [Repo](https://github.com/malinfossum/OnlineBank)
+- **Online Bank** — console banking: view balance, deposit, transfer; separation of concerns — [Repo](https://github.com/malinfossum/online-bank)
 - **DangerBug** — classifies insects as dangerous, a nuisance or harmless; OOP + inheritance — [Repo](https://github.com/malinfossum/dangerbug)
-- **Buggy Inventory System** — debugging exercise: 20 logical bugs found, fixed and documented — [Repo](https://github.com/malinfossum/BuggyInventorySystem)
+- **Buggy Inventory System** — debugging exercise: 20 logical bugs found, fixed and documented — [Repo](https://github.com/malinfossum/buggy-inventory-system)
 
 ## HTML & CSS
 
