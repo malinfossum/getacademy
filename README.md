@@ -1,8 +1,12 @@
 # Get Academy — Coursework
 
-A record of my coursework from Get Academy (Start IT), from my first HTML page to C# and object-oriented design. Each module or project lives in its own repository; all are archived (read-only) and kept as a learning trail.
+A record of my coursework, from my first HTML page to C# and object-oriented design. Each module or project lives in its own repository. The backend course is ongoing; the Start IT modules below it are archived (read-only) and kept as a learning trail.
 
 For my own projects, see my [profile](https://github.com/malinfossum) and [portfolio](https://malinfossum.github.io/portfolio/).
+
+## Backend — GET Prepared
+
+- **Backend course** — ASP.NET Core Minimal API, DTOs, dependency injection, `Result<T>`, unit testing with NUnit and Moq — [Repo](https://github.com/malinfossum/backend-kurs)
 
 ## C# — Modules (Emne 3)
 
