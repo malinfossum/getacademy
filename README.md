@@ -6,7 +6,7 @@ For my own projects, see my [profile](https://github.com/malinfossum) and [portf
 
 ## Backend — GET Prepared
 
-- **Backend course** — ASP.NET Core Minimal API, DTOs, dependency injection, `Result<T>`, unit testing with NUnit and Moq — [Repo](https://github.com/malinfossum/backend-kurs)
+- **Backend course** — ASP.NET Core Minimal API, DTOs, dependency injection, `Result<T>`, unit testing with NUnit and Moq — [Repo](https://github.com/malinfossum/backend-course)
 
 ## C# — Modules (Emne 3)
 
