@@ -14,7 +14,7 @@ Three individual exams, one per module, graded pass/fail by an external examiner
 
 | Module | Topic | Exam | Submission |
 |---|---|---|---|
-| Emne 1 | JavaScript | September 2026 | **Rotation cipher**: Norwegian-alphabet cipher with QUnit tests and an MVC split. Passed. [Code](https://github.com/malinfossum/intro-exams/tree/main/Emne%201/rotation-cipher) |
+| Emne 1 | JavaScript | September 2026 | **Rotation cipher**: Norwegian-alphabet cipher with QUnit tests and an MVC split. Passed. [Live](https://malinfossum.github.io/intro-exams/Emne%201/rotation-cipher/) · [Code](https://github.com/malinfossum/intro-exams/tree/main/Emne%201/rotation-cipher) |
 | Emne 2 | Agile | November 2026 | Not yet |
 | Emne 3 | C# / .NET | January 2027 | Not yet |
 
