@@ -10,13 +10,13 @@ For my own projects, see my [profile](https://github.com/malinfossum) and [portf
 
 ## Fagskole Intro: exams
 
-Three individual exams, one per module, graded pass/fail by an external examiner. Each is a code task plus a written reflection. The submissions live in a private repository until every module is graded.
+Three individual exams, one per module, graded pass/fail by an external examiner. Each is a code task plus a written reflection. Each submission goes into [intro-exams](https://github.com/malinfossum/intro-exams) once it is graded.
 
-| Module | Topic | Exam |
-|---|---|---|
-| Emne 1 | JavaScript | September 2026 |
-| Emne 2 | Agile | November 2026 |
-| Emne 3 | C# / .NET | January 2027 |
+| Module | Topic | Exam | Submission |
+|---|---|---|---|
+| Emne 1 | JavaScript | September 2026 | **Rotation cipher**: Norwegian-alphabet cipher with QUnit tests and an MVC split. Passed. [Code](https://github.com/malinfossum/intro-exams/tree/main/Emne%201/rotation-cipher) |
+| Emne 2 | Agile | November 2026 | Not yet |
+| Emne 3 | C# / .NET | January 2027 | Not yet |
 
 ## GET Prepared: backend
 
