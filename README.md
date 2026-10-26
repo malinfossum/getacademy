@@ -20,7 +20,7 @@ Three individual exams, one per module, graded pass/fail by an external examiner
 
 ## GET Prepared: backend
 
-Backend Light, ten weeks from August to October 2026. Finished.
+Backend Light, ten weeks from August to October 2026. Finished. Both repositories are archived and read-only.
 
 - **Backend course**: my solutions to the weekly tasks. Minimal API, dependency injection, unit testing with NUnit and Moq, SQL Server with Dapper, Entity Framework Core (Database First and Code First), migrations and transactions. [Repo](https://github.com/malinfossum/backend-course)
 - **DevOps course**: the two-week DevOps mini course. Containers with Compose, CI/CD with GitHub Actions, images in GHCR, deploy and rollback. [Repo](https://github.com/malinfossum/devops-course)
