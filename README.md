@@ -3,7 +3,7 @@
 A record of my coursework at GET Academy, from my first HTML page to C# and backend development. Each module or project lives in its own repository. Three tracks:
 
 - **Start IT.** The intro programme: HTML and CSS, JavaScript, then C#. Finished June 2026. Archived and read-only, kept as a learning trail.
-- **GET Prepared.** The backend course, August 2026 to January 2027. Ongoing.
+- **GET Prepared.** The backend-first programme, August 2026 to January 2027. The backend course finished in October 2026.
 - **Fagskole Intro.** The accredited exam track at Fagskolen GET Academy, covering the same three modules. Autumn 2026 to January 2027.
 
 For my own projects, see my [profile](https://github.com/malinfossum) and [portfolio](https://malinfossum.github.io/portfolio/).
@@ -20,7 +20,10 @@ Three individual exams, one per module, graded pass/fail by an external examiner
 
 ## GET Prepared: backend
 
-- **Backend course**: ASP.NET Core Minimal API, DTOs, dependency injection, `Result<T>`, unit testing with NUnit and Moq. [Repo](https://github.com/malinfossum/backend-course)
+Backend Light, ten weeks from August to October 2026. Finished.
+
+- **Backend course**: my solutions to the weekly tasks. Minimal API, dependency injection, unit testing with NUnit and Moq, SQL Server with Dapper, Entity Framework Core (Database First and Code First), migrations and transactions. [Repo](https://github.com/malinfossum/backend-course)
+- **DevOps course**: the two-week DevOps mini course. Containers with Compose, CI/CD with GitHub Actions, images in GHCR, deploy and rollback. [Repo](https://github.com/malinfossum/devops-course)
 
 ## Start IT
 
