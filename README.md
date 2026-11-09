@@ -3,7 +3,7 @@
 A record of my coursework at GET Academy, from my first HTML page to C# and backend development. Each module or project lives in its own repository. Three tracks:
 
 - **Start IT.** The intro programme: HTML and CSS, JavaScript, then C#. Finished June 2026. Archived and read-only, kept as a learning trail.
-- **GET Prepared.** The backend-first programme, August 2026 to January 2027. The backend course finished in October 2026.
+- **GET Prepared.** The backend-first programme, August 2026 to January 2027. The backend course finished in October 2026. The Vue frontend module started in November 2026.
 - **Fagskole Intro.** The accredited exam track at Fagskolen GET Academy, covering the same three modules. Autumn 2026 to January 2027.
 
 For my own projects, see my [profile](https://github.com/malinfossum) and [portfolio](https://malinfossum.github.io/portfolio/).
@@ -17,6 +17,12 @@ Three individual exams, one per module, graded pass/fail by an external examiner
 | Emne 1 | JavaScript | September 2026 | **Rotation cipher**: Norwegian-alphabet cipher with QUnit tests and an MVC split. Passed. [Live](https://malinfossum.github.io/intro-exams/Emne%201/rotation-cipher/) · [Code](https://github.com/malinfossum/intro-exams/tree/main/Emne%201/rotation-cipher) |
 | Emne 2 | Agile | November 2026 | Not yet |
 | Emne 3 | C# / .NET | January 2027 | Not yet |
+
+## GET Prepared: frontend
+
+Single Page Applications with Vue, the Vue module of the Fagskole frontend course, from November 2026. In progress.
+
+- **Vue exercises**: my week 1 exercises. Reactivity with `ref`, template syntax, directives, components with props and emits, slots and component tests with Vitest. [Repo](https://github.com/malinfossum/vue-exercises)
 
 ## GET Prepared: backend
 
