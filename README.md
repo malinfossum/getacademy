@@ -22,7 +22,7 @@ Three individual exams, one per module, graded pass/fail by an external examiner
 
 Single Page Applications with Vue, the Vue module of the Fagskole frontend course, from November 2026. In progress.
 
-- **Vue exercises**: my week 1 exercises. Reactivity with `ref`, template syntax, directives, components with props and emits, slots and component tests with Vitest. [Repo](https://github.com/malinfossum/vue-exercises)
+- **Frontend course**: my work for the Vue module. Week 1 exercises: reactivity with `ref`, template syntax, directives, components with props and emits, slots and component tests with Vitest. [Repo](https://github.com/malinfossum/frontend-course)
 
 ## GET Prepared: backend
 
